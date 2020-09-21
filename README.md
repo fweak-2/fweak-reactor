@@ -1,2 +1,2 @@
-# fweak-reactor
-A simple powercord plugin that lets you react to messages with any text!
+<h1 align='center'> Reactor </h1>
+<p align='center'> A simple powercord plugin to react with any text! </p> 
